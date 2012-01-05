@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://dahlia.5fpro.com/blog/2012/01/05/new-post/</loc>
+        <loc>http://kzdahlia.github.com/myblog/blog/2012/01/05/new-post/</loc>
         <lastmod>2012-01-05T17:12:01+08:00</lastmod>
     </url>
     <url>
-        <loc>http://dahlia.5fpro.com/blog/archives/</loc>
+        <loc>http://kzdahlia.github.com/myblog/blog/archives/</loc>
         <lastmod>2012-01-05T17:12:01+08:00</lastmod>
     </url>
     <url>
-        <loc>http://dahlia.5fpro.com/</loc>
+        <loc>http://kzdahlia.github.com/myblog/</loc>
         <lastmod>2012-01-05T17:12:01+08:00</lastmod>
     </url>
 </urlset>
