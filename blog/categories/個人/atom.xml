@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 個人 | Dahlia's Blog]]></title>
   <link href="http://dahlia.5fpro.com/blog/categories/個人/atom.xml" rel="self"/>
   <link href="http://dahlia.5fpro.com/"/>
-  <updated>2012-01-05T17:12:18+08:00</updated>
+  <updated>2012-01-05T17:18:30+08:00</updated>
   <id>http://dahlia.5fpro.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -23,6 +23,8 @@
 <p><code>markdown
 **測試markdown粗體語法**
 </code></p>
+
+<p>over</p>
 ]]></content>
   </entry>
   
