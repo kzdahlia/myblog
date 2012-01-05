@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://kzdahlia.github.com/myblog/atom.xml" rel="self"/>
-  <link href="http://kzdahlia.github.com/myblog/"/>
-  <updated>2012-01-05T16:24:55+08:00</updated>
-  <id>http://kzdahlia.github.com/myblog/</id>
+  <title><![CDATA[Dahlia's Blog]]></title>
+  <link href="http://dahlia.5fpro.com/atom.xml" rel="self"/>
+  <link href="http://dahlia.5fpro.com/"/>
+  <updated>2012-01-05T16:56:18+08:00</updated>
+  <id>http://dahlia.5fpro.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
