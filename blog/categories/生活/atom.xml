@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 生活 | Dahlia's Blog]]></title>
   <link href="http://dahlia.5fpro.com/blog/categories/生活/atom.xml" rel="self"/>
   <link href="http://dahlia.5fpro.com/"/>
-  <updated>2012-01-05T17:18:30+08:00</updated>
+  <updated>2012-01-05T17:34:01+08:00</updated>
   <id>http://dahlia.5fpro.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,11 +18,9 @@
     <link href="http://dahlia.5fpro.com/blog/2012/01/05/new-post/"/>
     <updated>2012-01-05T17:04:00+08:00</updated>
     <id>http://dahlia.5fpro.com/blog/2012/01/05/new-post</id>
-    <content type="html"><![CDATA[<p><strong>測試markdown粗體語法</strong></p>
+    <content type="html"><![CDATA[<p>start</p>
 
-<p><code>markdown
-**測試markdown粗體語法**
-</code></p>
+<p><strong>測試markdown粗體語法</strong></p>
 
 <p>over</p>
 ]]></content>

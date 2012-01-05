@@ -4,7 +4,7 @@
   <title><![CDATA[Dahlia's Blog]]></title>
   <link href="http://dahlia.5fpro.com/atom.xml" rel="self"/>
   <link href="http://dahlia.5fpro.com/"/>
-  <updated>2012-01-05T17:04:59+08:00</updated>
+  <updated>2012-01-05T17:34:01+08:00</updated>
   <id>http://dahlia.5fpro.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[new-post]]></title>
+    <title type="html"><![CDATA[Hello 2012！]]></title>
     <link href="http://dahlia.5fpro.com/blog/2012/01/05/new-post/"/>
     <updated>2012-01-05T17:04:00+08:00</updated>
     <id>http://dahlia.5fpro.com/blog/2012/01/05/new-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>start</p>
+
+<p><strong>測試markdown粗體語法</strong></p>
+
+<p>over</p>
 ]]></content>
   </entry>
   
